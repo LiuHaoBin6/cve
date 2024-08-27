@@ -13,7 +13,7 @@ https://www.sourcecodester.com/php/16073/music-gallery-site-using-php-and-mysql-
  /php-music/admin/?page=musics/view_music
 
 ## Description:
-Music Gallery Site 1.0 is vulnerable to an unrestricted SQL injection attack in /php-music/admin/?page=musics/view_musi with the attack parameter id. An attacker can exploit this vulnerability to directly obtain sensitive server information. A malicious attacker could exploit this vulnerability to obtain sensitive information in the server database.
+Music Gallery Site 1.0 is vulnerable to an unrestricted SQL injection attack in /php-music/admin/?page=musics/view_music with the attack parameter id. An attacker can exploit this vulnerability to directly obtain sensitive server information. A malicious attacker could exploit this vulnerability to obtain sensitive information in the server database.
 
 Status: CRITICAL
 
